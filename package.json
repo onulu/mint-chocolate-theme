@@ -1,0 +1,21 @@
+{
+  "name": "mint-chocolate",
+  "displayName": "mint chocolate",
+  "description": "mint chocolate theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mint-chocolate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mint-chocolate-color-theme.json"
+      }
+    ]
+  }
+}

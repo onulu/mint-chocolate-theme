@@ -5,7 +5,7 @@
 
 <p align="center">Soft sage-mint accents with rich chocolate background, blending coolness and earthy elegance in minimalist style</p>
 
-![Mint Chocolate VSCode](https://raw.githubusercontent.com/onulu/mint-chocolate-theme/refs/heads/main/assets/theme.png)
+![Mint Chocolate VSCode](https://raw.githubusercontent.com/onulu/mint-chocolate-theme/refs/heads/main/assets/theme.webp)
 
 ## Usage
 

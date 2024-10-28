@@ -2,6 +2,7 @@
   "name": "mint-chocolate",
   "displayName": "Mint Chocolate",
   "description": "Mint Chocolate VS Theme",
+  "repository": "https://github.com/onulu/mint-chocolate-theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"

@@ -1,8 +1,11 @@
 {
   "name": "mint-chocolate",
   "displayName": "Mint Chocolate",
+  "publisher": "onulu",
   "description": "Mint Chocolate VS Theme",
-  "repository": "https://github.com/onulu/mint-chocolate-theme",
+  "repository": {
+    "url": "https://github.com/onulu/mint-chocolate-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
@@ -10,10 +13,17 @@
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "mint",
+    "chocolate",
+    "minimal"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "mint-chocolate",
+        "label": "Mint Chocolate",
         "uiTheme": "vs-dark",
         "path": "./themes/mint-chocolate-color-theme.json"
       }

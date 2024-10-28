@@ -1,7 +1,7 @@
 {
   "name": "mint-chocolate",
-  "displayName": "mint chocolate",
-  "description": "mint chocolate theme",
+  "displayName": "Mint Chocolate",
+  "description": "Mint Chocolate VS Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"

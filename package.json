@@ -6,19 +6,26 @@
   "repository": {
     "url": "https://github.com/onulu/mint-chocolate-theme"
   },
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#302721",
+    "theme": "dark"
+  },
+  "icon": "assets/logo.png",
   "license": "MIT",
   "keywords": [
     "theme",
     "mint",
     "chocolate",
-    "minimal"
+    "minimal",
+    "calm",
+    "simple"
   ],
   "contributes": {
     "themes": [
